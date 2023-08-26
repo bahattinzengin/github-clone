@@ -1,5 +1,6 @@
 ## Örnek Görüntüler
-![github-clone](https://github.com/bahattinzengin/github-clone/assets/140658226/3492daae-3c5f-4746-b63b-3f5684662dfa)
+![ezgif com-crop](https://github.com/bahattinzengin/github-clone/assets/140658226/dfe35c3c-639b-4be4-a374-901beb8f7264)
+
 # github clone
 html ,scss ,js kullanıldı
 ## Özellikler
